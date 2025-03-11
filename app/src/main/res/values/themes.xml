@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Rtspplayer" parent="@style/Theme.Leanback" />
+</resources>
